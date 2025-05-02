@@ -3,12 +3,15 @@ from pyecharts.charts import Map
 from pyecharts.commons.utils import JsCode
 
 cities = [
+    '南京市',
+    '上海市',
     '无锡市',
     '常州市',
     '徐州市',
     '济南市',
     '淄博市',
     '泰安市',
+    '临沂市',
     '青岛市',
     '威海市',
     '烟台市',
